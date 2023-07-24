@@ -1,0 +1,28 @@
+{
+  "DetailsList": [
+    {
+      "Name": "Vishnu Reddy",
+      "DateOfBirth": "2001-03-02T18:30:00.000Z",
+      "PhoneNumber": 9550445483,
+      "Email": "msvvr9866@gmail.com",
+      "id": 1
+    },
+    {
+      "Name": "Srija",
+      "DateOfBirth": "2002-11-14T18:30:00.000Z",
+      "PhoneNumber": 789654123,
+      "Email": "srija@gmail.com",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
